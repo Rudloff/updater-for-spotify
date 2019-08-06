@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">Updater for Spotify</string>
+    <string name="app_name">Updater for Trainline EU</string>
     <string name="action_settings">Settings</string>
     <string name="installed_version">Installed Version</string>
     <string name="latest_version">Latest Version</string>
-    <string name="spotify_not_installed">Spotify is not Installed</string>
+    <string name="spotify_not_installed">Trainline EU is not Installed</string>
     <string name="no_internet_connection">No internet connection detected. Please connect to the internet and try again.</string>
     <string name="up_to_date">Latest version is installed</string>
-    <string name="spotify">Spotify</string>
+    <string name="spotify">Trainline EU</string>
 
     <!--                Notification                  -->
     <string name="notificaion_chanel_name">Jesus Christ, That\'s Jason Bourne!</string>
@@ -16,7 +16,7 @@
     <string name="install_now">Install Now</string>
     <string name="downloading_in">in /Download/</string>
     <string name="downloading">Downloading</string>
-    <string name="spotify_is_downloading">Spotify is downloading</string>
+    <string name="spotify_is_downloading">Trainline EU is downloading</string>
 
     <!--                Settings                  -->
     <string name="general">General</string>
@@ -26,10 +26,10 @@
     <string name="see_on_github">See project on GitHub</string>
     <string name="donate_paypal">Donate to the developer for coffee ♥</string>
     <string name="paypal_link">https://www.paypal.me/2Ra66it</string>
-    <string name="github_link">https://github.com/2Ra66it/updater-for-spotify</string>
-    <string name="latest_version_original">Latest Version of Spotify</string>
+    <string name="github_link">https://github.com/Rudloff/updater-for-trainline-eu</string>
+    <string name="latest_version_original">Latest Version of Trainline EU</string>
     <string name="enable_notification">Enable Notifications</string>
-    <string name="notification_text_origin">You will receive a notification for every new version of Spotify</string>
+    <string name="notification_text_origin">You will receive a notification for every new version of Trainline EU</string>
     <string name="info">Info</string>
     <string name="update_check_interval">Update check interval</string>
 

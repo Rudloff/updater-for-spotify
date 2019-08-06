@@ -7,7 +7,7 @@ android {
     compileSdkVersion 28
     buildToolsVersion "28.0.3"
     defaultConfig {
-        applicationId "ru.ra66it.updaterforspotify"
+        applicationId "pro.rudloff.updaterfortrainlineeu"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 16
@@ -15,7 +15,7 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
         buildConfigField "String", "SPOTIFY_BASE_URL", "\"https://ws75.aptoide.com\""
-        buildConfigField "String", "SPOTIFY_API", "\"/api/7/app/getMeta/package_name=com.spotify.music\""
+        buildConfigField "String", "SPOTIFY_API", "\"/api/7/app/getMeta/package_name=com.capitainetrain.android\""
     }
     buildTypes {
         release {

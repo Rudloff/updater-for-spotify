@@ -1,7 +1,7 @@
 package ru.ra66it.updaterforspotify
 
 
-const val spotifyPackage = "com.spotify.music"
+const val spotifyPackage = "com.capitainetrain.android"
 const val notificationIdKey = "notificationIdKey"
 const val latestLinkKey = "latestLinkKey"
 const val latestVersionKey = "latestVersionKey"
@@ -14,4 +14,3 @@ const val spotifyNotInstalled = 0
 const val spotifyHaveUpdate = 1
 const val spotifyIsLatest = 2
 const val saveFilePermissionCodeRequest = 8800
-

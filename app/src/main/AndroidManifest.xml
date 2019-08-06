@@ -47,7 +47,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="ru.ra66it.updaterforspotify.provider"
+            android:authorities="pro.rudloff.updaterfortrainlineeu.provider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
